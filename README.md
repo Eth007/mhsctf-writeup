@@ -1,3 +1,5 @@
+# Lemme In - 30 points
+
 We're given the source code to a python program for checking passwords:
 
 ```python

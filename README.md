@@ -144,4 +144,4 @@ flag{ah_th3_old_$witc#3r00}
 
 We get the flag: `flag{ah_th3_old_$witc#3r00}`!
 
-Thanks to 0xmmalik for a great challenge!
+Thanks to 0xmmalik for a tough challenge!
